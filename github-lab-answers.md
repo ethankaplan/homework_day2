@@ -10,3 +10,7 @@ commit 2
 4. allowing the passing of options
 5. correct something that was wrong
 
+commit 3
+1. git branch name
+2. git checkout name
+3. test changes before commiting to master
