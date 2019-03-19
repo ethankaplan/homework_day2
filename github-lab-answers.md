@@ -14,3 +14,8 @@ commit 3
 1. git branch name
 2. git checkout name
 3. test changes before commiting to master
+
+commit 4
+1. to add changes you made in a different branch. pull to sync changes made remotely
+2. push
+
